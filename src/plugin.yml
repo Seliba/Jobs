@@ -1,0 +1,8 @@
+main: de.seliba.islandfarmers.Main
+name: IslandFarmers
+version: 1.0
+author: Seliba
+
+commands:
+  jobs:
+  dollar:
