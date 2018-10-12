@@ -65,7 +65,7 @@ public class JobManager {
         ItemStack baker = new ItemStack(Job.BAKER.getMaterial());
         ItemStack fisherman = new ItemStack(Job.FISHERMAN.getMaterial());
         ItemStack enchanter = new ItemStack(Job.ENCHANTER.getMaterial());
-        ItemStack glas = new ItemStack(Material.STAINED_GLASS_PANE, 1, DyeColor.BLACK.getData());
+        ItemStack glas = new ItemStack(Material.STAINED_GLASS_PANE, 1, (byte) 15);
 
         ItemMeta hunterMeta = hunter.getItemMeta();
         ItemMeta minerMeta = miner.getItemMeta();

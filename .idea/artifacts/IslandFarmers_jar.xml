@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="IslandFarmers:jar">
-    <output-path>A:/MC-Server/1.8.8/plugins</output-path>
+    <output-path>A:/MC-Server/1.12.2/plugins</output-path>
     <root id="archive" name="IslandFarmers.jar">
       <element id="module-output" name="IslandFarmers" />
       <element id="extracted-dir" path="$USER_HOME$/Dropbox/Programmieren/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar" path-in-jar="/" />
